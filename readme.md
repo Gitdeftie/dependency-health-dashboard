@@ -13,6 +13,7 @@ A powerful tool to analyze and visualize the health of your project dependencies
 - **Size Analysis**: Find bloated packages contributing to project size
 - **License Compliance**: Ensure all dependencies comply with your project's license
 - **Usage Statistics**: Identify which dependencies are actively used vs. potentially unused
+- **Dark Mode Support**: Toggle between light and dark themes with true black background option
 
 ## 🚀 Getting Started
 
@@ -102,7 +103,7 @@ The dashboard provides insights into:
                         └─────────────────┘
 ```
 
-## 📝 Roadmap
+## 📝 Future Enhancements
 
 - [ ] Add support for Maven (Java) dependencies
 - [ ] GitHub Actions integration
@@ -111,6 +112,9 @@ The dashboard provides insights into:
 - [ ] Team collaboration features
 - [ ] Enhanced repository activity metrics
 - [ ] Historical activity tracking
+- [ ] Dependency tree visualization
+- [ ] Automated update recommendations
+- [ ] Integration with package vulnerability databases
 
 ## 🤝 Contributing
 
@@ -133,3 +137,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Snyk Vulnerability Database](https://snyk.io/vuln)
 - [SPDX License List](https://spdx.org/licenses/)
 - [GitHub API](https://docs.github.com/en/rest)
+- [Dracula Theme](https://draculatheme.com/) - Inspiration for dark mode colors
